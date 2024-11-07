@@ -1,1 +1,1 @@
-# ohtuvarasto
+"Repositorio ohjelmistotuotantokurssille" 
