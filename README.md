@@ -1,1 +1,1 @@
-"Repositorio ohjelmistotuotantokurssille" 
+https://github.com/petaeeta/ohtuvarasto/workflows/CI/badge.svg
