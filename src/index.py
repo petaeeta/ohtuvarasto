@@ -1,8 +1,8 @@
 from varasto import Varasto
 
 def main():
-    x = 3
-    print(x)
+    foo = 3
+    print(foo)
     mehua = Varasto(100.0)
     olutta = Varasto(100.0, 20.2)
 
