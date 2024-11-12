@@ -1,7 +1,8 @@
 from varasto import Varasto
 
-
 def main():
+    x = 3
+    print(x)
     mehua = Varasto(100.0)
     olutta = Varasto(100.0, 20.2)
 
@@ -26,7 +27,6 @@ def main():
     print("Varasto(-100.0);")
     huono = Varasto(-100.0)
     print(huono)
-
     print("Varasto(100.0, -50.7)")
     huono = Varasto(100.0, -50.7)
     print(huono)
